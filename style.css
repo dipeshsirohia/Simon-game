@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    margin: 2rem;
+    border-radius: 2rem;
+
+}
+
+.green{
+    background-color: aquamarine;
+}
+.red{
+    background-color: rgb(167, 112, 126);
+}
+
+.blue{
+    background-color: rgb(91, 91, 146);
+}
+.yellow{
+    background-color: chocolate;
+}
+
+.flash{
+    background-color: azure;
+}
+
+.userflash{
+    background-color: green;
+}
+
+.endgame{
+    background-color: red;
+}
